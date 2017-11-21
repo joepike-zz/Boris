@@ -1,2 +1,0 @@
-describe DockingSation do
-end
